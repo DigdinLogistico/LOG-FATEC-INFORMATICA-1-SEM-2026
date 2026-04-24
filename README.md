@@ -21,3 +21,8 @@ Atividade - Dados abertos SP
 [Dados abertos SP - Mortalidade.xlsx](https://github.com/user-attachments/files/26677982/Dados.abertos.SP.-.Mortalidade.xlsx)
 
 
+# LOG-FATEC-INFORMATICA-1-SEM 2026 - Parte 2
+Segunda parte das atividades realizadas, após a primeira avaliação de portfólio. 
+
+Atividade Power BI - Sinistros do estado de São Paulo
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e0e17e16-7c33-43dd-aed4-29455e012ec7" />
