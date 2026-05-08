@@ -26,3 +26,7 @@ Segunda parte das atividades realizadas, após a primeira avaliação de portfó
 
 Atividade Power BI - Sinistros do estado de São Paulo
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e0e17e16-7c33-43dd-aed4-29455e012ec7" />
+
+
+Atividade Power BI - Admissões e demissões estado de SP 2020 - 2025
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/cef8ce10-77ed-4ecb-9472-c57484b7d6a9" />
