@@ -30,3 +30,8 @@ Atividade Power BI - Sinistros do estado de São Paulo
 
 Atividade Power BI - Admissões e demissões estado de SP 2020 - 2025
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/cef8ce10-77ed-4ecb-9472-c57484b7d6a9" />
+
+
+Atividade Excel - Regressão Linear venda sorvete
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d1af70ed-49aa-4bb7-a6b8-1d2cd7f1655c" />
+[Ice Cream Sales and Temperature.xlsx](https://github.com/user-attachments/files/27783072/Ice.Cream.Sales.and.Temperature.xlsx)
