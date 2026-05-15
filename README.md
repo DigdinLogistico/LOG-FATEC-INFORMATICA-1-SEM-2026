@@ -35,3 +35,6 @@ Atividade Power BI - Admissões e demissões estado de SP 2020 - 2025
 Atividade Excel - Regressão Linear venda sorvete
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d1af70ed-49aa-4bb7-a6b8-1d2cd7f1655c" />
 [Ice Cream Sales and Temperature.xlsx](https://github.com/user-attachments/files/27783072/Ice.Cream.Sales.and.Temperature.xlsx)
+
+Atividade Colab - Regressão linear venda sorvete 
+<img width="1917" height="1079" alt="image" src="https://github.com/user-attachments/assets/366dfc3a-e6fd-4ec5-9f7d-d9a35f97be6a" />
