@@ -38,3 +38,13 @@ Atividade Excel - Regressão Linear venda sorvete
 
 Atividade Colab - Regressão linear venda sorvete 
 <img width="1917" height="1079" alt="image" src="https://github.com/user-attachments/assets/366dfc3a-e6fd-4ec5-9f7d-d9a35f97be6a" />
+
+
+Atividade Excel - Regressão linear qualidade do vinho vermelho
+<img width="1918" height="1079" alt="image" src="https://github.com/user-attachments/assets/6b52be1e-961e-4b01-874a-0323e50c9172" />
+[Atividade Excel - Regressão linear qualidade do vinho vermelho.xlsx](https://github.com/user-attachments/files/27822230/Atividade.Excel.-.Regressao.linear.qualidade.do.vinho.vermelho.xlsx)
+
+
+Atividade Colab - Regressão linear qualidade do vinho vermelho
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/8ba45577-b902-40b7-adfe-3c60ab0875d5" />
+
