@@ -48,6 +48,6 @@ Atividade Excel - Regressão linear qualidade do vinho vermelho
 Atividade Colab - Regressão linear qualidade do vinho vermelho
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/8ba45577-b902-40b7-adfe-3c60ab0875d5" />
 
-Prova - Informática aplicada a logística 
+Prova - Informática aplicada a logística - Análise de investimentos captados - Estado de São Paulo
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/fd52c78e-6ca5-437e-b467-a0db339afad5" />
 
